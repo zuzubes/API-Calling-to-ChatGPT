@@ -1,0 +1,42 @@
+[
+    {
+        "id": 0,
+        "name": "Turtle Check Men Navy Blue Shirt",
+        "category": "Apparel",
+        "subcategory": "Topwear",
+        "color": "Navy Blue",
+        "image_path": "product_images/product_0.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Peter England Men Party Blue Jeans",
+        "category": "Apparel",
+        "subcategory": "Bottomwear",
+        "color": "Blue",
+        "image_path": "product_images/product_1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Titan Women Silver Watch",
+        "category": "Accessories",
+        "subcategory": "Watches",
+        "color": "Silver",
+        "image_path": "product_images/product_2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Manchester United Men Solid Black Track Pants",
+        "category": "Apparel",
+        "subcategory": "Bottomwear",
+        "color": "Black",
+        "image_path": "product_images/product_3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Puma Men Grey T-shirt",
+        "category": "Apparel",
+        "subcategory": "Topwear",
+        "color": "Grey",
+        "image_path": "product_images/product_4.jpg"
+    }
+]
