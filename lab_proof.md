@@ -1,7 +1,6 @@
 Screenshots or output showing:
 Successful API calls - ![alt text](image.png)
 Generated listings for at least 3 products - ![alt text](image-1.png)
-Error handling examples - 
 
 
 A brief report (1 page) including:
